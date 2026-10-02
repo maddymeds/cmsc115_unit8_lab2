@@ -41,16 +41,16 @@ Commit message:
 ## Iteration 3
 
 Final behavior:
--
+- The method returns the largest integer in the array and returns Integer.MIN_VALUE when the array is empty.
 
 What was fixed:
--
+- Added a check for an empty array to prevent accessing an element that does not exist.
 
 What you learned:
--
+- I learned how to handle empty arrays, use AI-generated code, and verify changes with JUnit tests.
 
 Commit message:
--
+- Iteration 3: final version passing all tests.
 
 ---
 

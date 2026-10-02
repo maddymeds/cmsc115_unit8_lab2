@@ -57,5 +57,10 @@ Commit message:
 ## Final Reflection
 
 - How did AI responses change across prompts?
+-  The AI responses became more specific as I improved my prompts. This helped me understand how to understand how to update the method to handle different situations.
+
 - How did testing affect your changes?
+- Running JUnit tests helped me verify that the program worked correctly. The tests confirmed that the method handled basic arrays, empty arrays, signle values, and negative numbers.
+
 - What did version control help you understand?
+-  Version control helped me understand how to save changes through commits and push them to GitHub. It also showed me how to track the progress of my across iterations.

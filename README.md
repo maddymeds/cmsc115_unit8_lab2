@@ -25,16 +25,16 @@ Commit message:
 ## Iteration 2
 
 What changed:
--
+- Replaced the previous findResult method with AI-generated code to find the largest integer in an array.
 
 What improved:
--
+- The method checks array element and returns the largest value. It also handles negative numbers correctly.
 
 What still failed and why:
--
+- No tests failed. All 4 JUnit tests passed, including the empty array, basic array, single value, and negative number tests.
 
 Commit message:
--
+- Iteration 2: largest value implementation 
 
 ---
 

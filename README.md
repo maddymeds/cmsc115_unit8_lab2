@@ -1,24 +1,24 @@
 # Reflection – AI Number Program Lab
 
 ##  Student Name:
-(Enter your name here)
+Madelyn Aideloje
 
 ##  GitHub Repository Link:
-(Insert your repository URL here)
+https://github.com/maddymeds/cmsc115_unit8_lab2
 
 ## Iteration 1
 
 What the AI code does:
--
+- The method findResult(int[] values) loops through the integer array and finds the largest value.
 
 Tests passed/failed:
--
+- Allv 4 tests passed, including the basic array, empty array, single value, and negative number tests.
 
 What surprised you:
--
+- I was surprised that running the JUnit tests helped verify whether the method worked for different inputs.
 
 Commit message:
--
+- Iteration 1: Implement findResult method
 
 ---
 
